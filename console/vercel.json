@@ -1,0 +1,4 @@
+{
+  "buildCommand": "bash scripts/edge-db-sync.sh && npm run build",
+  "installCommand": "npm ci"
+}
